@@ -1,0 +1,13 @@
+pandas
+altair
+matplotlib
+seaborn
+jupyterlab
+ipywidgets
+jupyterlab-dash
+python-dotenv
+psycopg2-binary
+SQLAlchemy
+missingno
+folium
+missingno
